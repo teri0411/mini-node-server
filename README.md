@@ -1,2 +1,1 @@
-# sprints-mini-server
-mini sprint for chatterbox-server sprint
+# mini-node-server
